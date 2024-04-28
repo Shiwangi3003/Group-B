@@ -1,4 +1,4 @@
 ## Group B
-## Team members
+### Team members
 - Jagannath Roy
 - MD Adnan Khan
